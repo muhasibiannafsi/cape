@@ -89,10 +89,10 @@ function formatRupiah(num) {
 function getImage(name) {
   const images = {
 
-    "Nasi Goreng": "images/nasi goreng.jpg",
+    "Nasi Goreng": "images/Nasi Goreng.jpg",
     "All Rice Bowl": "images/All Rice Bowl.jpg",
     "Omelet": "images/Omelet.jpg",
-    "sukuna": "images/sukuna.jpg",
+    "sukuna": "images/Sukuna.jpg",
     "Kentang Goreng": "images/Kentang Goreng.jpg",
     "Scrlet Sorgum": "images/Scrlet Sorgum.jpg",
     "Burger Bigoal": "images/Burger Bigoal.jpg",
@@ -117,7 +117,7 @@ function getImage(name) {
     "Jus Alpukat": "images/Jus Alpukat.jpg",
     "Jus Jeruk": "images/Jus Jeruk.jpg",
     "Jus Mangga": "images/Jus Mangga.jpg",
-    "Jus Stroberi": "images/Jus Stoberi.jpg",
+    "Jus Stroberi": "images/Jus Strowberi.jpg",
     "Jus Buah Naga": "images/Jus Buah Naga.jpg",
     "Jus Semangka Mint": "images/Jus Semangka Mint.jpg",
     "Jus Nanas": "images/Jus Nanas.jpg",
